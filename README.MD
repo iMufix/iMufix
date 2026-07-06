@@ -1,192 +1,236 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Mohamed%20Mufid%20K%20T&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%20Builder&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:190061,100:3500D3&height=280&section=header&text=MOHAMED%20MUFID%20K%20T&fontSize=48&fontColor=00F5FF&animation=twinkling&fontAlignY=35&desc=%3C%20SOFTWARE%20ENGINEER%20/%2F%20FULL-STACK%20/%2F%20AI%20BUILDER%20%3E&descAlignY=53&descAlign=50&descColor=B026FF" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=%3E+initializing_developer.exe;%3E+loading_skills+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+100%25;%3E+building+MERN+%2B+Flutter+%2B+AI+systems;%3E+status%3A+ONLINE+_" alt="Typing SVG"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/mohamed-mufid-023b55256">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:mohamedmufid1@outlook.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/Mufix7">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://github.com/iMufix">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+production-grade+scalable+systems;MERN+%7C+Flutter+%7C+AI-powered+apps;Turning+ideas+into+real+products;Always+learning+%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG"/>
+![Profile Views](https://komarev.com/ghpvc/?username=iMufix&color=00F5FF&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-connect-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0D0221)](https://www.linkedin.com/in/mohamed-mufid-023b55256)
+[![Email](https://img.shields.io/badge/EMAIL-message-B026FF?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0D0221)](mailto:mohamedmufid1@outlook.com)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-solve-FFD700?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D0221)](https://leetcode.com/u/Mufix7)
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
+
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-## 👋 About Me
+## `[ SYSTEM.PROFILE ]`
 
-```yaml
-name: "Mohamed Mufid K T"
-preferred_name: "Mufid"
-location: "Chennai, Tamil Nadu, India 🇮🇳"
-role: "Software Developer"
-current_focus:
-  - Full Stack Development (MERN)
-  - Flutter Mobile Apps
-  - AI-Powered Applications
-  - System Design
-education:
-  - degree: "MCA — College of Engineering Guindy, Anna University"
-    years: "2025–2027"
-  - degree: "BCA — Mohamed Sathak College of Arts and Science"
-    years: "2021–2024"
-goal: "Build production-grade scalable systems & eventually start my own software company 🚀"
-fun_fact: "I optimize my life the way I optimize my code — for performance."
+```javascript
+const mufid = {
+  location: "Chennai, Tamil Nadu, India 🇮🇳",
+  role: "Software Developer",
+  pursuing: "MCA @ CEG, Anna University (2025–2027)",
+  completed: "BCA @ Mohamed Sathak College (2021–2024)",
+
+  targetRoles: [
+    "Full Stack Developer", "Backend Developer",
+    "Java Developer", "Flutter Developer",
+    "MERN Stack Developer"
+  ],
+
+  currentlyBuilding: "A world-class dev portfolio 🌐",
+  missionStatement: () => {
+    return "Build production-grade, scalable systems.
+            Eventually launch my own software company 🚀";
+  },
+
+  funFact: "I debug my life the way I debug my code —
+             one breakpoint at a time."
+};
+
+export default mufid;
 ```
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=java,js,ts,dart,html,css,mysql&theme=dark"/>
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark"/>
-
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark"/>
-
-### Mobile
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark"/>
-
-### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&theme=dark"/>
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,docker,webpack,vscode,vercel&theme=dark"/>
-
-### AI / ML
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=probot&logoColor=white"/>
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎧 [Presetify](https://github.com/iMufix/Presetify)
-**Flagship Project**
-
-A community-driven platform to discover, search, contribute, and rate Equalizer presets — for songs, headphones, speakers, cars, mobile devices, streaming platforms, and audio software.
-
-`MERN` · `PostgreSQL` · `OpenAI API`
-
-**Role:** Designed & built the complete application end-to-end.
-
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
-### 🩺 [Vitaboo](https://github.com/iMufix/Vitaboo)
-**AI Health & Wellness Assistant**
-
-AI-powered self-health diagnostics and wellness assistant that guides users through symptoms and recommendations.
-
-`Flutter` · `Firebase` · `Firestore` · `OpenAI API`
-
-**Role:** Complete frontend & backend development.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📋 [University Grievance Management System](https://github.com/iMufix/grievance_system_uni)
-**Role-Based Workflow System**
-
-Admin & officer dashboards, complaint workflow, proof upload, feedback loop, and an AI chatbot for guided grievance filing.
-
-`MERN` · `OpenAI API`
-
-**Role:** Complete development.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧘 [ION](https://github.com/iMufix/ION_APP)
-**Mental Health & Wellness Assistant**
-
-Collects user responses through guided questionnaires and delivers AI-assisted mental wellness recommendations.
-
-`Flutter` · `Firebase` · `Gemini API`
-
-**Role:** Complete development.
+<img src="https://github-readme-stats.vercel.app/api?username=iMufix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00F5FF&icon_color=B026FF&text_color=ffffff" width="100%"/>
 
 </td>
 </tr>
 </table>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 📊 GitHub Stats
+## `[ TECH.STACK ]`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iMufix&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iMufix&theme=radical&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMufix&layout=compact&theme=radical&hide_border=true" width="49%"/>
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 🎯 Currently
-
-- 🔭 Actively preparing for **internships & full-time SWE roles** — Software / Full Stack / Backend / Java / Flutter / MERN Developer
-- 📚 Pursuing **MCA at College of Engineering Guindy**, Anna University
-- 🌱 Currently completing a **MERN Stack Development** certification (Pumo Technovation)
-- 🧩 Regularly practicing on **LeetCode** and **Codeforces**
-- 🎨 Building a **world-class developer portfolio** — Next.js, TypeScript, Tailwind, Framer Motion, React Three Fiber
-- 🗣️ Organized a **Web Development Workshop** during undergraduate studies
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/mohamed-mufid-023b55256"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:mohamedmufid1@outlook.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/Mufix7"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-
+<img src="https://img.shields.io/badge/-LANGUAGES-0D0221?style=flat-square&labelColor=00F5FF"/>
 <br/><br/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,dart,html,css,mysql&theme=dark"/>
 
-<img src="https://profile-counter.glitch.me/iMufix/count.svg" alt="visitor count"/>
+<br/>
+
+<img src="https://img.shields.io/badge/-FRONTEND-0D0221?style=flat-square&labelColor=B026FF"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css&theme=dark"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/-BACKEND-0D0221?style=flat-square&labelColor=00F5FF"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/-MOBILE-0D0221?style=flat-square&labelColor=B026FF"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/-DATABASES-0D0221?style=flat-square&labelColor=00F5FF"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&theme=dark"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/-TOOLS-0D0221?style=flat-square&labelColor=B026FF"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,webpack,vscode,vercel&theme=dark"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/-AI%20%2F%20ML-0D0221?style=flat-square&labelColor=00F5FF"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/OpenAI_API-00F5FF?style=for-the-badge&logo=openai&logoColor=black"/>
+<img src="https://img.shields.io/badge/Gemini_API-B026FF?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-FFD700?style=for-the-badge&logo=probot&logoColor=black"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
+
+## `[ FEATURED.PROJECTS ]`
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<div align="left">
+
+### 🎧 `Presetify` <img src="https://img.shields.io/badge/FLAGSHIP-00F5FF?style=flat-square&labelColor=0D0221"/>
+
+> Community platform to discover, share & rate Equalizer presets — for songs, headphones, speakers, cars & streaming platforms.
+
+`MERN` `PostgreSQL` `OpenAI API`
+
+**Role:** Designed & built the full application solo.
+
+[![Repo](https://img.shields.io/badge/EXPLORE_REPO-B026FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iMufix/Presetify)
+
+</div>
+</td>
+<td width="50%" valign="top">
+
+<div align="left">
+
+### 🩺 `Vitaboo` <img src="https://img.shields.io/badge/AI_HEALTH-00F5FF?style=flat-square&labelColor=0D0221"/>
+
+> AI-powered self-health diagnostics & wellness assistant guiding users through symptoms and personalized recommendations.
+
+`Flutter` `Firebase` `Firestore` `OpenAI API`
+
+**Role:** Complete frontend & backend development.
+
+[![Repo](https://img.shields.io/badge/EXPLORE_REPO-B026FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iMufix/Vitaboo)
+
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="left">
+
+### 📋 `Grievance System` <img src="https://img.shields.io/badge/ROLE_BASED-00F5FF?style=flat-square&labelColor=0D0221"/>
+
+> University grievance management with admin/officer dashboards, proof upload, feedback loop & an AI chatbot.
+
+`MERN` `OpenAI API`
+
+**Role:** Complete end-to-end development.
+
+[![Repo](https://img.shields.io/badge/EXPLORE_REPO-B026FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iMufix/grievance_system_uni)
+
+</div>
+</td>
+<td width="50%" valign="top">
+
+<div align="left">
+
+### 🧘 `ION` <img src="https://img.shields.io/badge/MENTAL_WELLNESS-00F5FF?style=flat-square&labelColor=0D0221"/>
+
+> Mental health assistant that gathers responses via guided questionnaires and delivers AI-assisted recommendations.
+
+`Flutter` `Firebase` `Gemini API`
+
+**Role:** Complete end-to-end development.
+
+[![Repo](https://img.shields.io/badge/EXPLORE_REPO-B026FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iMufix/ION_APP)
+
+</div>
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
+
+## `[ ANALYTICS.DASHBOARD ]`
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iMufix&theme=tokyonight&hide_border=true&background=0D0221&ring=00F5FF&fire=B026FF&currStreakLabel=00F5FF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMufix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00F5FF&text_color=ffffff" width="35%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iMufix&theme=tokyo-night&bg_color=0D0221&color=00F5FF&line=B026FF&point=FFD700&hide_border=true" width="100%"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
+
+## `[ CURRENT.PROCESS ]`
+
+```bash
+$ whoami --status
+
+[✔] Preparing for internships & full-time SWE roles
+[✔] Pursuing MCA @ College of Engineering Guindy, Anna University
+[✔] Completing MERN Stack certification — Pumo Technovation
+[✔] Practicing daily on LeetCode + Codeforces
+[✔] Building a premium Next.js + R3F developer portfolio
+[✔] Organized a Web Development Workshop (undergrad)
+
+$ echo "always learning, always shipping"
+> always learning, always shipping
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px"/>
+
+<div align="center">
+
+## `[ ESTABLISH.CONNECTION ]`
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D0221?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](https://www.linkedin.com/in/mohamed-mufid-023b55256)
+[![Email](https://img.shields.io/badge/EMAIL-0D0221?style=for-the-badge&logo=maildotru&logoColor=B026FF)](mailto:mohamedmufid1@outlook.com)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-0D0221?style=for-the-badge&logo=leetcode&logoColor=FFD700)](https://leetcode.com/u/Mufix7)
+[![GitHub](https://img.shields.io/badge/GITHUB-0D0221?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iMufix)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&duration=3000&pause=1000&color=B026FF&center=true&vCenter=true&width=500&lines=%3C+connection+established+%2F%3E;%3C+end+of+transmission+%2F%3E" alt="footer typing"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3500D3,50:190061,100:0D0221&height=150&section=footer" width="100%"/>
