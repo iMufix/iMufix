@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF6B00,100:FFB800&height=200&section=header&text=MOHAMED%20MUFID%20K%20T&fontSize=45&fontColor=0A0A0A&fontAlignY=45&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1A1A2E,100:0A0A0A&height=200&section=header&text=MOHAMED%20MUFID%20K%20T&fontSize=45&fontColor=FFB800&fontAlignY=45&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=20&duration=2200&pause=900&color=FFB800&center=true&vCenter=true&width=700&lines=SOFTWARE+ENGINEER+%E2%97%86+FULL-STACK+%E2%97%86+AI+BUILDER;SIGNAL+LOCKED+%E2%80%94+CHENNAI%2C+INDIA;TRANSMITTING+PROJECTS...+STANDBY" alt="Typing SVG"/>
 
@@ -169,4 +169,4 @@ Full end-to-end development.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:FFB800,100:FF6B00&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0A0A0A,100:1A1A2E&height=100&section=footer" width="100%"/>
