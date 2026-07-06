@@ -48,7 +48,14 @@
 
 **LANGUAGES**
 <br/>
-<img src="https://skillicons.dev/icons?i=java,js,ts,dart,html,css,mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,dart,html,css,mysql&theme=dark"/>
+
+**DATA SCIENCE / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,numpy,pandas,jupyter,sklearn&theme=dark"/>
+<br/>
+<img src="https://img.shields.io/badge/Matplotlib-FF6B00?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-FFB800?style=for-the-badge&logo=python&logoColor=black"/>
 
 **FRONTEND SYSTEMS**
 <br/>
