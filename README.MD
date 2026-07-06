@@ -48,34 +48,31 @@
 
 **LANGUAGES**
 <br/>
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,dart,html,css,mysql&theme=dark"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=java,js,ts,python,dart,html,css,mysql&theme=dark"/>
 
 **DATA SCIENCE / ML**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,jupyter,sklearn&theme=dark"/>
-<br/>
-<img src="https://img.shields.io/badge/Matplotlib-FF6B00?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-FFB800?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,matplotlib,seaborn,jupyter,sklearn&theme=dark"/>
 
 **FRONTEND SYSTEMS**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css&theme=dark"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,threejs,html,css&theme=dark"/>
 
 **BACKEND CORE**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,postman&theme=dark"/>
 
 **MOBILE UNITS**
 <br/>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,dart,firebase&theme=dark"/>
 
 **DATA VAULTS**
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&theme=dark"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,postgres,mysql,firebase&theme=dark"/>
 
 **FIELD TOOLS**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,webpack,vscode,vercel&theme=dark"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,webpack,vscode,vercel&theme=dark"/>
 
 **AI / NEURAL SYSTEMS**
 <br/>
